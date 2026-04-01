@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Estudiantes_API_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EA38A7-C770-00F6-B7D5-E5864DF1D3E1}|Estudiantes_API_MVC\\Estudiantes_API_MVC.csproj|c:\\c#\\estudiantes_api_mvc\\estudiantes_api_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7EA38A7-C770-00F6-B7D5-E5864DF1D3E1}|Estudiantes_API_MVC\\Estudiantes_API_MVC.csproj|solutionrelative:estudiantes_api_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Estudiantes_API_MVC\\appsettings.json",
+              "ToolTip": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC\\appsettings.json",
+              "RelativeToolTip": "Estudiantes_API_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T11:34:22.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

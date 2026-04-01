@@ -1,0 +1,14 @@
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.deps.json
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.runtimeconfig.json
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.pdb
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.csproj.AssemblyReference.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.AssemblyInfoInputs.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.AssemblyInfo.cs
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.csproj.CoreCompileInputs.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\refint\Estudiantes_API_MVC.DLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.pdb
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\Estudiantes_API_MVC.DLL.genruntimeconfig.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.DLL\obj\Debug\net8.0\ref\Estudiantes_API_MVC.DLL.dll

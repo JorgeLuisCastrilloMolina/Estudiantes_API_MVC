@@ -1,0 +1,15 @@
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\bin\Debug\net8.0\Estudiantes_API_MVC.BLL.deps.json
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\bin\Debug\net8.0\Estudiantes_API_MVC.BLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\bin\Debug\net8.0\Estudiantes_API_MVC.BLL.pdb
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\bin\Debug\net8.0\Estudiantes_API_MVC.DLL.pdb
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.csproj.AssemblyReference.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.AssemblyInfoInputs.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.AssemblyInfo.cs
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.csproj.CoreCompileInputs.cache
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudian.3FF2A64E.Up2Date
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\refint\Estudiantes_API_MVC.BLL.dll
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\Estudiantes_API_MVC.BLL.pdb
+C:\C#\Estudiantes_API_MVC\Estudiantes_API_MVC.BLL\obj\Debug\net8.0\ref\Estudiantes_API_MVC.BLL.dll

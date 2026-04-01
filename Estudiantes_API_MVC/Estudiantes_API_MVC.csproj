@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Estudiantes_API_MVC.BLL\Estudiantes_API_MVC.BLL.csproj" />
+    <ProjectReference Include="..\Estudiantes_API_MVC.DLL\Estudiantes_API_MVC.DLL.csproj" />
+  </ItemGroup>
+
+</Project>

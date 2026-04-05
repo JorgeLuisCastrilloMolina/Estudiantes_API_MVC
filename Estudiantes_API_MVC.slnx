@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="../../../../../../../../C#/Estudiantes_API_MVC/Estudiantes_API_MVC.BLL/Estudiantes_API_MVC.BLL.csproj" />
-  <Project Path="../../../../../../../../C#/Estudiantes_API_MVC/Estudiantes_API_MVC.DLL/Estudiantes_API_MVC.DLL.csproj" />
-  <Project Path="../../../../../../../../C#/Estudiantes_API_MVC/Estudiantes_API_MVC/Estudiantes_API_MVC.csproj" />
+  <Project Path="Estudiantes_API_MVC.BLL/Estudiantes_API_MVC.BLL.csproj" />
+  <Project Path="Estudiantes_API_MVC.DLL/Estudiantes_API_MVC.DLL.csproj" />
+  <Project Path="Estudiantes_API_MVC/Estudiantes_API_MVC.csproj" />
+  <Project Path="Estudiantes_MVC/Estudiantes_MVC.csproj" />
 </Solution>

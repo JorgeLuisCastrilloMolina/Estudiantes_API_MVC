@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Estudiantes_API_MVC\\Estudiantes_API_MVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Estudiantes_MVC\\Estudiantes_MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

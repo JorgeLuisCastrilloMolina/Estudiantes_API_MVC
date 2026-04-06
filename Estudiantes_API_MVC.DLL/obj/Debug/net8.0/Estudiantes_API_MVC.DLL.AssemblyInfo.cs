@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estudiantes_API_MVC.DLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8878043b87a5454086dedfeb62f35205fad8e584")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estudiantes_API_MVC.DLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estudiantes_API_MVC.DLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

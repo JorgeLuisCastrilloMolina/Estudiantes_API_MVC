@@ -5,7 +5,7 @@
     "version": "v1"
   },
   "paths": {
-    "/Estudiantes": {
+    "/api/estudiantes": {
       "get": {
         "tags": [
           "Estudiantes"
@@ -109,7 +109,7 @@
         }
       }
     },
-    "/Estudiantes/{id}": {
+    "/api/estudiantes/{id}": {
       "get": {
         "tags": [
           "Estudiantes"

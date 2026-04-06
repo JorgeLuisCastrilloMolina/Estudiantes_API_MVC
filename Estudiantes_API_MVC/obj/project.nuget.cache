@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8ximy4qGFQ=",
+  "dgSpecHash": "e7sVWEJ77mM=",
   "success": true,
-  "projectFilePath": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC\\Estudiantes_API_MVC.csproj",
+  "projectFilePath": "C:\\xampp\\Estudiantes_API_MVC\\Estudiantes_API_MVC\\Estudiantes_API_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.8\\microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",

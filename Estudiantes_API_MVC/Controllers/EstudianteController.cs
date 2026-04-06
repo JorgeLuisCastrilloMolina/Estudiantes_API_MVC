@@ -5,7 +5,7 @@ using Estudiantes_API_MVC.DLL.Entidades;
 namespace Estudiantes_API_MVC.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/estudiantes")]
     public class EstudiantesController : ControllerBase
     {
         private readonly IEstudianteServicio _servicio;

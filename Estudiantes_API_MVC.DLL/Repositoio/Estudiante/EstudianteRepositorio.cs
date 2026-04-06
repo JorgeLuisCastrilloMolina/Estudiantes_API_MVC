@@ -45,7 +45,7 @@ namespace Estudiantes_API_MVC.DLL.Repositoio.Estudiante
             return _context.SaveChanges() > 0;
         }
 
-        public Entidades.Estudiante ObtenerEstudiantePorId(int id)
+        public Entidades.Estudiante? ObtenerEstudiantePorId(int id)
         {
             return _context.Estudiantes
                 .AsNoTracking()

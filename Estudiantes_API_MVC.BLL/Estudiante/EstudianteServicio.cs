@@ -21,7 +21,7 @@ namespace Estudiantes_API_MVC.BLL.Estudiante
             return _repo.ObtenerEstudiantes();
         }
 
-        public DLL.Entidades.Estudiante GetEstudiante(int id)
+        public DLL.Entidades.Estudiante? GetEstudiante(int id)
         {
             return _repo.ObtenerEstudiantePorId(id);
         }

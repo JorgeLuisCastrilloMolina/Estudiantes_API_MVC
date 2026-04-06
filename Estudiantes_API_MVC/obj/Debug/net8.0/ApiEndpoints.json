@@ -2,7 +2,7 @@
   {
     "ContainingType": "Estudiantes_API_MVC.Controllers.EstudiantesController",
     "Method": "GetEstudiantes",
-    "RelativePath": "Estudiantes",
+    "RelativePath": "api/estudiantes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "Estudiantes_API_MVC.Controllers.EstudiantesController",
     "Method": "AddEstudiante",
-    "RelativePath": "Estudiantes",
+    "RelativePath": "api/estudiantes",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -57,7 +57,7 @@
   {
     "ContainingType": "Estudiantes_API_MVC.Controllers.EstudiantesController",
     "Method": "GetEstudiante",
-    "RelativePath": "Estudiantes/{id}",
+    "RelativePath": "api/estudiantes/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -92,7 +92,7 @@
   {
     "ContainingType": "Estudiantes_API_MVC.Controllers.EstudiantesController",
     "Method": "UpdateEstudiante",
-    "RelativePath": "Estudiantes/{id}",
+    "RelativePath": "api/estudiantes/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -132,7 +132,7 @@
   {
     "ContainingType": "Estudiantes_API_MVC.Controllers.EstudiantesController",
     "Method": "DeleteEstudiante",
-    "RelativePath": "Estudiantes/{id}",
+    "RelativePath": "api/estudiantes/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

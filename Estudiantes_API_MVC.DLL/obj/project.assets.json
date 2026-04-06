@@ -2580,11 +2580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\Estudiantes_API_MVC.DLL.csproj",
+      "projectUniqueName": "C:\\xampp\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\Estudiantes_API_MVC.DLL.csproj",
       "projectName": "Estudiantes_API_MVC.DLL",
-      "projectPath": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\Estudiantes_API_MVC.DLL.csproj",
+      "projectPath": "C:\\xampp\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\Estudiantes_API_MVC.DLL.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\obj\\",
+      "outputPath": "C:\\xampp\\Estudiantes_API_MVC\\Estudiantes_API_MVC.DLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
